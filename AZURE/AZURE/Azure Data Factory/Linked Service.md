@@ -1,0 +1,1 @@
+Linked services are similar to connection strings. They provide necessary information for Data Factory to connect to external resources .

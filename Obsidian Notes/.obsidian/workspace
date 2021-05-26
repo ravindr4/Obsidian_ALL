@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "71eb57ce23f62fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35c2d2732147782",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4d81d8b68be15e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e26f21d9ab58fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f13d3a3846cad1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19cc72bd37c2081e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7dc46ffa861e430",
+    "type": "split",
+    "children": [
+      {
+        "id": "38bcad50bfbd18bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56f36bb98bf980b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d35c2d2732147782",
+  "lastOpenFiles": [
+    "second note.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}

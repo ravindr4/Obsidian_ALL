@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "b9bd3402c3fb4395",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fef89076d3571a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 Basics of Statistics/WEEK - 1 STATISTICS.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bdbe0e6d5743834",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e00eeca21c2b31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b371fe1802857e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2575d3c8fb592ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10a3da037cba34d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "586bd2635e052f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34eea4aabb4d9eb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Basics of Statistics/WEEK - 1 STATISTICS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fef89076d3571a8",
+  "lastOpenFiles": [
+    "1 Basics of Statistics/WEEK - 1 STATISTICS.md",
+    "Basics of Statistics/Untitled.md",
+    "Basics of Statistics/STATISTICS.md",
+    "Basic Statistics/Untitled.md"
+  ]
+}

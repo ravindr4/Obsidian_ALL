@@ -1,0 +1,1 @@
+Data Sets represents data structure within the data stores. They are like a refrence to the data . You deifne a dataset , provide schema ( not necessary to define at creation time ), then use that dataset to point to data stored in data stores (blob , data lake etc.) in different formats like parquet, csv , exl etc.

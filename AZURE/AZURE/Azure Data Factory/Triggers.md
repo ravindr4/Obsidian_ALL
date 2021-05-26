@@ -1,0 +1,1 @@
+Triggers determine when a pipeline gets exsecuted/ kicked off . There are diffeent types of triggers .

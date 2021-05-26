@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "2efc94829b1cf4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d0d274eb7f7fda6",
+        "type": "split",
+        "children": [
+          {
+            "id": "86562f69825cee9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure Data Factory/Pipeline.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0e3a45d279e86298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wafastudies ADF playlist.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7638c74616086240",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed886e348fac1c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30aca20b8ef35ae4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15210baf8dd54c16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8dbaefdf8c49c27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01859c0001bb66b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d40f04a3680ad6e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure Data Factory/Pipeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86562f69825cee9c",
+  "lastOpenFiles": [
+    "Azure Data Factory/Pipeline.md",
+    "Azure Data Factory/Activity.md",
+    "Wafastudies ADF playlist.md",
+    "Immediate requirement.md",
+    "Azure Data Factory/Triggers.md",
+    "Azure Data Factory/Data Sets.md",
+    "Azure Data Factory/Linked Service.md",
+    "Azure Data Factory/Azure Data Factory.md",
+    "Untitled.md",
+    "Azure Data Factory/Untitled.md"
+  ]
+}

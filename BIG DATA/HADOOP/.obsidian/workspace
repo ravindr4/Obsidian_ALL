@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "db727f7486c9c9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e1a4e5e0904086",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "what all i intend to dig through.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98ee63024394bfc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff174f3786bfe864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ec5a794b46df66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9643dee972cfc2a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f59abcebdf1e27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85933a233d619ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35148a7eee51846b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "what all i intend to dig through.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "73e1a4e5e0904086",
+  "lastOpenFiles": [
+    "what all i intend to dig through.md",
+    "Resource links.md",
+    "Hadoop ECO System/About Hadoop Ecosystem.md",
+    "Hadoop ECO System/Hadoop eco system.md",
+    "Untitled.md",
+    "Hadoop ECO System/Untitled.md",
+    "Hadoop ECO System/Resource links.md",
+    "Hadoop eco system.md",
+    "HDFS/04 Usage.md",
+    "HDFS/03 Failure handling and recovery.md"
+  ]
+}
